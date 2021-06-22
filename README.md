@@ -9,8 +9,16 @@ yarn
 yarn serve
 ```
 
-Second, implement the Single Responsibility Principle to introduce
-as many JavaScript modules as groups of people who would want
-the code to change.
+Second, try to think about as many as different groups of people that would want
+the code to change: the product owner, the localization team, 
+the copywriter, the front-end developpers, the back-end developers, the QA team ...
+
+Third, implement the Single Responsibility Principle. You don't need to create new classes, just new modules.
 
 
+
+## Credits
+
+Code adapted from the "Clean Code In the Browser" series, by Chris Powers.
+
+https://cleancoders.com/series/clean-code-in-the-browser
