@@ -10,8 +10,8 @@ yarn serve
 ```
 
 Second, try to think about as many as different groups of people that would want
-the code to change: the product owner, the localization team, 
-the copywriter, the front-end developpers, the back-end developers, the QA team ...
+the code to change: the product owner, the localization team,
+the copywriter, the front-end developers, the back-end developers, the QA team ...
 
 Third, implement the Single Responsibility Principle. You don't need to create new classes, just new modules.
 
