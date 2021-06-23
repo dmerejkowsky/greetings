@@ -22,7 +22,7 @@ You can use `standard` to show errors and reformat the code automatically
 using
 
 ```
-yarn stardard --fix
+yarn standard --fix
 ```
 
 ## Credits
