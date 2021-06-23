@@ -9,6 +9,8 @@ yarn
 yarn serve
 ```
 
+(Open http://127.0.0.1:8080 in a web browser)
+
 Second, try to think about as many as different groups of people that would want
 the code to change: the product owner, the localization team,
 the copywriter, the front-end developers, the back-end developers, the QA team ...
