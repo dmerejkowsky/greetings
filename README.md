@@ -16,6 +16,14 @@ the copywriter, the front-end developers, the back-end developers, the QA team .
 Third, implement the Single Responsibility Principle. You don't need to create new classes, just new modules.
 
 
+## Note
+
+You can use `standard` to show errors and reformat the code automatically
+using
+
+```
+yarn stardard --fix
+```
 
 ## Credits
 
